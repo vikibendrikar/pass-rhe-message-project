@@ -1,0 +1,43 @@
+
+body{
+    background-color: cadetblue;
+    min-height: 100vh;
+    text-align: center;
+}
+ .heading1{
+     font-size: 35px;
+     text-transform: uppercase;
+     color: chocolate;
+     margin: 25px 0px 50px 0px;
+
+ }
+
+ .message{
+     font-size: 40px;
+     text-align: center;
+     text-transform: capitalize;
+     background-color: white;
+     width: 75%;
+     height: 150px;
+     padding: 20px 20px;
+     margin: 20px auto 40px auto;
+ }
+
+ #text{
+     font-size: 30px;
+     padding: 40px 20px;
+     width: 75%;
+     margin: 0 auto;
+     display: block;
+ }
+ .btn{
+     margin: 40px 10px;
+     padding: 10px 15px;
+     font-size: 25px;
+     color: crimson;
+     background-color: darkslateblue;
+ }
+ .btn:hover{
+     color: darkgoldenrod;
+     background-color: darksalmon;
+ }
